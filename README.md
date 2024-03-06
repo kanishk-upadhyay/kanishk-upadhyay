@@ -5,7 +5,6 @@ I'm [Kanishk Upadhyay](https://github.com/kanishk-upadhyay), a Computer Science 
 ## 🎓 About Me
 
 - 📚 Studying B.Tech in CSE at UIT Barkatullah University, Bhopal.
-- 🌱 Learning the art of coding via the CS50 course.
 - 👨‍💻 Intermediate in HTML, CSS, JavaScript, Python, and C++.
 - 💻 Using VS Code as my primary IDE and ChatGPT for help.
 - 😄 Pronouns: He/Him.

@@ -1,4 +1,3 @@
-<div align="center">
   <pre>PRESENT DAY... PRESENT TIME...</pre>
   <h3>"If you're not remembered, then you never existed."</h3>
 </div>
@@ -38,6 +37,9 @@ My consciousness is **Kanishk Upadhyay**, a computer science student navigating 
 
 ## LAYER 04: SYNCHRONIZE
 > Let's all love Lain. Let's connect.
+<div align="center">
+  <pre>(U• ·̫ •U)</pre>
+</div>
 
 - **LinkedIn:** [linkedin.com/in/kanishk22](https://linkedin.com/in/kanishk22)
 - **Mastodon:** [floss.social/@kanishk](https://floss.social/@kanishk)
@@ -52,7 +54,12 @@ My consciousness is **Kanishk Upadhyay**, a computer science student navigating 
 - **Philosophy & The Nature of Reality:** Questioning the very layer we exist on.
 - **Films & The Art of Storytelling:** Analyzing the construction of narratives and memory.
 
----
+<div align="center">
+<pre>
+░▒▓█▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄█▓▒░
+</pre>
+</div>
+
 <div align="center">
   <pre>...CLOSE THE WORLD, OPEN THE NExT...</pre>
 </div>

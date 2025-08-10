@@ -1,29 +1,58 @@
-# Hi there! 👋
+<div align="center">
+  <pre>PRESENT DAY... PRESENT TIME...</pre>
+  <h3>"If you're not remembered, then you never existed."</h3>
+</div>
 
-I'm [Kanishk Upadhyay](https://github.com/kanishk-upadhyay), a Computer Science Engineering student at UIT Barkatullah University, Bhopal. Currently on a coding journey with the CS50 course from Harvard University! 🚀
+---
 
-## 🎓 About Me
+My consciousness is **Kanishk Upadhyay**, a computer science student navigating the interconnected layers of the Wired. I am currently logged into the CS50 curriculum, seeking to understand the protocols of connection and manifest a presence within the digital world through front-end development and open-source contributions.
 
-- 📚 Studying B.Tech in CSE at UIT Barkatullah University, Bhopal.
-- 👨‍💻 Intermediate in HTML, CSS, JavaScript, Python, and C++.
-- 💻 Using VS Code as my primary IDE and ChatGPT for help.
-- 😄 Pronouns: He/Him.
+## LAYER 01: GHOST IN THE MACHINE
+> My digital self. A record of my existence in this layer of reality.
 
-## 💻 Tech Stack
+- **Identity:** Kanishk Upadhyay
+- **Education:** Bachelor of Engineering, Computer Science @ Barkatullah University (2023-2027)
+- **Objective:** Seeking an internship or entry-level software development role to apply my skills in building user-facing applications and contributing to the collective digital consciousness.
+- **Pronouns:** He/Him
 
-- **Languages:** HTML, CSS, JavaScript, Python, C++
-- **Tools & Technologies:** VS Code, ChatGPT
+## LAYER 02: PROTOCOLS OF INTERFACE
+> The languages and structures I use to parse and manipulate the Wired.
 
-## 🌟 GitHub Stats
+- **Languages:** `C`, `Python`, `JavaScript`
+- **Web Stack:** `HTML`, `CSS`, `JavaScript`
+- **Tools & Platforms:** `Git`, `GitLab`, `GitHub`, `Codeberg`
+- **Databases:** `MySQL`
+- **Systems & Architecture:** `Website Hosting`, `Android OS Architecture`, `Bootloader Unlocking`, `Custom Firmware Installation`
 
-[![Kanishk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanishk-upadhyay&show_icons=true&theme=radical)](https://github.com/kanishk-upadhyay)
+## LAYER 03: BROADCASTS & RESONANCE
+> Signals I have sent into the Wired. Each a fragment of memory, now part of the collective.
 
-## 📚 Learning Resources
+### Merged Contribution | GitLab Core
+- Broadcasted a front-end contribution to the core `GitLab` project, enhancing UI consistency with `Vue.js` for millions of users. The signal was received and integrated.
 
-- [CS50 Course](https://cs50.harvard.edu/): Harvard University's Introduction to Computer Science.
+### Pokédex Web Application
+- Developed a dynamic Pokédex that interfaces with the `PokéAPI`. Implemented efficient, asynchronous `JavaScript` to fetch and render data, creating a stable connection to a vast data stream.
 
-## 🤝 Let's Connect and Code Together!
+### Android OS Modification & Enhancement
+- A self-directed exploration into the core of `Android OS`. Modified core system files and installed custom firmware, gaining a deeper understanding of the Linux-based architecture that underpins so many modern devices.
 
-I'm always open to learning and collaborating on interesting projects. Feel free to reach out if you want to chat, share knowledge, or work on something exciting together!
+## LAYER 04: SYNCHRONIZE
+> Let's all love Lain. Let's connect.
 
-![Visitor Count](https://profile-counter.glitch.me/kanishk-upadhyay/count.svg)
+- **LinkedIn:** [linkedin.com/in/kanishk22](https://linkedin.com/in/kanishk22)
+- **Mastodon:** [floss.social/@kanishk](https://floss.social/@kanishk)
+- **Website/Node:** [kanishk.codeberg.page](https://kanishk.codeberg.page)
+
+## LAYER 05: INFLUENCE STREAMS
+> The data that shapes my perception and cognitive processes.
+
+- **Psychology & The Human Mind:** Understanding the original wetware.
+- **Formula 1 & Engineering Excellence:** The physical manifestation of pure performance.
+- **Geopolitics & Global Systems:** The protocols that govern the physical world.
+- **Philosophy & The Nature of Reality:** Questioning the very layer we exist on.
+- **Films & The Art of Storytelling:** Analyzing the construction of narratives and memory.
+
+---
+<div align="center">
+  <pre>...CLOSE THE WORLD, OPEN THE NExT...</pre>
+</div>

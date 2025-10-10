@@ -54,7 +54,7 @@ My consciousness is **Kanishk Upadhyay**, a computer science student navigating 
 ## LAYER 02: PROTOCOLS OF INTERFACE
 > The languages and structures I use to parse and manipulate the Wired.
 
-- **Languages:** `C`, `Python`, `JavaScript`
+- **Languages:** `C`, `Python`, `Swift`
 - **Web Stack:** `HTML`, `CSS`, `JavaScript`
 - **Tools & Platforms:** `Git`, `GitLab`, `GitHub`, `Codeberg`
 - **Databases:** `MySQL`
@@ -63,10 +63,13 @@ My consciousness is **Kanishk Upadhyay**, a computer science student navigating 
 ## LAYER 03: BROADCASTS & RESONANCE
 > Signals I have sent into the Wired. Each a fragment of memory, now part of the collective.
 
-### Merged Contribution | GitLab Core
-- Broadcasted a front-end contribution to the core `GitLab` project, enhancing UI consistency with `Vue.js` for millions of users. The signal was received and integrated.
+### [Personal Node // Website](https://kanishk.live)
+- Broadcasted a personal node into the Wired, serving as a static anchor for my digital identity. Constructed with foundational protocols (`vanilla HTML/CSS`) to ensure maximum stability and minimum latency.
 
-### Pokédex Web Application
+### [GitLab Contribution](https://contributors.gitlab.com/users/kanishk0?fromDate=2024-08-10) 
+- Broadcasted front-end contributions to the core `GitLab` project, enhancing UI consistency with `Vue.js` for millions of users. The signal was received and integrated.
+
+### [Pokédex Web Application](https://github.com/kanishk-upadhyay/pokedex)
 - Developed a dynamic Pokédex that interfaces with the `PokéAPI`. Implemented efficient, asynchronous `JavaScript` to fetch and render data, creating a stable connection to a vast data stream.
 
 ### Android OS Modification & Enhancement
@@ -75,9 +78,9 @@ My consciousness is **Kanishk Upadhyay**, a computer science student navigating 
 ## LAYER 04: SYNCHRONIZE
 > Let's all love Lain. Let's connect.
 
+- **Webpage:** [page.kanishk.live](https://page.kanishk.live)
 - **LinkedIn:** [linkedin.com/in/kanishk22](https://linkedin.com/in/kanishk22)
 - **Mastodon:** [floss.social/@kanishk](https://floss.social/@kanishk)
-- **Website/Node:** [kanishk.codeberg.page](https://kanishk.codeberg.page)
 
 ## LAYER 05: INFLUENCE STREAMS
 > The data that shapes my perception and cognitive processes.

@@ -41,14 +41,14 @@
 
 ---
 
-My consciousness is **Kanishk Upadhyay**, a computer science student navigating the interconnected layers of the Wired. I am currently logged into the CS50 curriculum, seeking to understand the protocols of connection and manifest a presence within the digital world through front-end development and open-source contributions.
+My consciousness is **Kanishk Upadhyay**, a computer science student navigating the interconnected layers of the Wired. I am currently seeking to understand the protocols of connection and manifest a presence within the digital world.
 
 ## LAYER 01: GHOST IN THE MACHINE
 > My digital self. A record of my existence in this layer of reality.
 
 - **Identity:** Kanishk Upadhyay
 - **Education:** Bachelor of Engineering, Computer Science @ Barkatullah University (2023-2027)
-- **Objective:** Seeking an internship or entry-level software development role to apply my skills in building user-facing applications and contributing to the collective digital consciousness.
+- **Objective:** Have fun. Also to land a software development role to apply my skills in building user-facing applications and contributing to the collective digital consciousness.
 - **Pronouns:** He/Him
 
 ## LAYER 02: PROTOCOLS OF INTERFACE
